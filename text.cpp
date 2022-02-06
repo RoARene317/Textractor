@@ -703,9 +703,9 @@ Kamu juga dapat mengetik process ID game yang akan ditempel)";
 Drag and drop ekstensi di dalam list untuk mengatur list
 Tekan delete pada ekstensi yang dipilih untuk menghapus ekstensi)";
 	USE_JP_LOCALE = u8"Gunakan locale jepang?";
-	DEFAULT_CODEPAGE = u8"Codepage standar";
+	DEFAULT_CODEPAGE = u8"Halaman kode standar";
 	FLUSH_DELAY = u8"Flush Delay";
-	MAX_BUFFER_SIZE = u8"Max Buffer Size";
+	MAX_BUFFER_SIZE = u8"Ukuran Buffer Maksimum";
 	CONSOLE = L"Konsol";
 	CLIPBOARD = L"Papan clipboard";
 	ABOUT = L"Textractor " ARCH L" v" VERSION LR"( dibuat oleh saya: Artikash (email: akashmozumdar@gmail.com)
@@ -716,19 +716,19 @@ Kamu dapat melakukannya lewat halaman utama project (bagian issues) atau lewat e
 Source code tersedia dibawah lisensi GPLv3 di halaman utama project
 Jika kamu menyukai project ini, tolong sebarluaskan project ini :))";
 	UPDATE_AVAILABLE = L"Pembaharuan tersedia: pembaharuan dapat di unduh di https://github.com/Artikash/Textractor/releases";
-	ALREADY_INJECTED = L"Textractor: sudah ditempelkan";
-	INJECT_FAILED = L"Textractor: menempelkan gagal";
-	LAUNCH_FAILED = L"Textractor: game tidak dapat dijalankan";
-	INVALID_CODE = L"Textractor: kode tidak sesuai";
-	INVALID_CODEPAGE = L"Textractor: tidak dapat mengkonversi teks (Codepage tidak sesuai?)";
-	PIPE_CONNECTED = u8"Textractor: pipe tersambung";
-	INSERTING_HOOK = u8"Textractor: memasukkan hook: %s";
-	REMOVING_HOOK = u8"Textractor: menghapus hook: %s";
-	HOOK_FAILED = u8"Textractor: gagal memasukkan hook";
-	TOO_MANY_HOOKS = u8"Textractor: terlalu banyak hook: tidak dapat memasukkan hook";
-	NOT_ENOUGH_TEXT = u8"Textractor: tidak cukup teks untuk melakukan pencarian secara akurat";
-	FUNC_MISSING = u8"Textractor: tidak ada fungsi";
-	MODULE_MISSING = u8"Textractor: tidak ada modul";
+	ALREADY_INJECTED = L"Textractor: Sudah ditempelkan";
+	INJECT_FAILED = L"Textractor: Menempelkan gagal";
+	LAUNCH_FAILED = L"Textractor: Game tidak dapat dijalankan";
+	INVALID_CODE = L"Textractor: Kode tidak sesuai";
+	INVALID_CODEPAGE = L"Textractor: Tidak dapat mengkonversi teks (Codepage tidak sesuai?)";
+	PIPE_CONNECTED = u8"Textractor: Pipa tersambung";
+	INSERTING_HOOK = u8"Textractor: Memasukkan hook: %s";
+	REMOVING_HOOK = u8"Textractor: Menghapus hook: %s";
+	HOOK_FAILED = u8"Textractor: Gagal memasukkan hook";
+	TOO_MANY_HOOKS = u8"Textractor: Terlalu banyak hook: tidak dapat memasukkan hook";
+	NOT_ENOUGH_TEXT = u8"Textractor: Tidak cukup teks untuk melakukan pencarian secara akurat";
+	FUNC_MISSING = u8"Textractor: Tidak ada fungsi";
+	MODULE_MISSING = u8"Textractor: Tidak ada modul";
 	GARBAGE_MEMORY = u8"Textractor: memory terus berganti, tidak dapat dibaca";
 	SEND_ERROR = u8"Textractor: Send ERROR (kemungkinan H-Code salah)";
 	READ_ERROR = u8"Textractor: Reader ERROR (Kemungkinan R-Code salah)";
