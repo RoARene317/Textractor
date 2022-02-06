@@ -21,9 +21,6 @@ Rilisan Terakhir ITHVNR dapat diunduh [disini](https://drive.google.com/open?id=
 
 ## Dukungan
 
-Please let me know of any bugs, games that Textractor has trouble hooking, feature requests, or other suggestions.<br>
-If you have trouble hooking a game please email me a place where I can freely download it, or gift it to me on [Steam](https://steamcommunity.com/profiles/76561198097566313/).
-
 Tolong beritahu saya jika kamu menemukan bug, game yang tidak dapat di tempel oleh Textractor, permintaan fitur, atau usulan lain.<br>
 Jika kamu memiliki masalah dalam menempelkan kedalam game tolong email saya link agar saya dapat mendownload game tersebut, atau gift game tersebut di [Steam](https://steamcommunity.com/profiles/76561198097566313/).
 
